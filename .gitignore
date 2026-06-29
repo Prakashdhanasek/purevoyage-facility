@@ -3,3 +3,7 @@ build/
 ios/Pods/
 ios/Flutter/Flutter.framework
 ios/Flutter/Flutter.podspec
+
+build/
+.dart_tool/
+ios/Pods/
