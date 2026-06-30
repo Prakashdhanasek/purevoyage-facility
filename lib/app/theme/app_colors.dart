@@ -1,0 +1,76 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const Color fmBlue50 = Color(0xFFF0F8FF);
+  static const Color fmBlue100 = Color(0xFFE0F0FE);
+  static const Color fmBlue200 = Color(0xFFBAE2FD);
+  static const Color fmBlue300 = Color(0xFF7DCBFC);
+  static const Color fmBlue400 = Color(0xFF43B6F9);
+  static const Color fmBlue500 = Color(0xFF0D98EA);
+  static const Color fmBlue550 = Color(0xFF268BDE);
+  static const Color fmBlue600 = Color(0xFF0178C8);
+  static const Color fmBlue700 = Color(0xFF025FA2);
+  static const Color fmBlue800 = Color(0xFF075185);
+  static const Color fmBlue900 = Color(0xFF0C446E);
+  static const Color fmBlue950 = Color(0xFF2C3E94);
+  static const Color fmBlue1000 = Color(0xFF2C6BE8);
+  static const Color fmBackground = Color(0xFFF8FAFC);
+  static const Color backgroundPrimary = Color(0xFFFFFFFF);
+  static const Color backgroundSecondary = Color(0xFFF8FAFC);
+  static const Color backgroundTertiary = Color(0xFFEFF0F6);
+  static const Color backgroundQuaternary = Color(0xFFE5E7EA);
+  static const Color commonFontColorPrimary = Color(0xFF1F1F1F);
+  static const Color commonFontColorSecondary = Color(0xFF4C4848);
+  static const Color commonFontColorTertiary = Color(0xFF616161);
+  static const Color greyFontColorPrimary = Colors.grey;
+  static const Color commonIconColorPrimary = Colors.black;
+  static const Color borderColor = Color.fromARGB(255, 215, 214, 214);
+  static const Color textFieldErrorColor = Color(0xFFCDD5DF);
+  static const Color success = Color(0xFF00B383);
+  static const Color danger = Color(0xFFCB2C2C);
+  static const Color fmTeal = Color(0xFF3CB692);
+  static const Color fmGreen = Color(0xFF098D19);
+  static const Color greenWithOPacity10 = Color(0xFFF0FAF3);
+
+  static const Color fmSkyBlue = Color(0xFF5FAADF);
+  static const Color fmLightViolet = Color(0xFF7371C0);
+  static const Color fmViolet = Color(0xFF4F46E5);
+  static const Color fmLightGreen = Color(0xFF42B14F);
+  static const Color fmLightRed = Color(0xFFD45656);
+  static const Color fmLightGrey = Color(0xFFD9D9D9);
+  static const Color fmPurple = Color(0xFFBB63C4);
+  static const Color fmTealGreen = Color(0xFFC7D250);
+  static const Color fmBlueDark = Color(0xFF2757C4);
+  static const Color fmDodgerBlue = Color(0xFF2768E8);
+  static const Color fmRed500 = Color(0xFFE56A3E);
+  static const Color fmGrey100 = Color(0xFF555555);
+  static const Color fmGrey200 = Color(0xFF666666);
+  static const Color fmGrey300 = Color(0xFF777777);
+  static const Color fmRed = Color(0xFFD45656);
+  static const Color fmOrange = Color(0xFFE7AB3B);
+  static const Color orangeWitOpacity10 = Color(0xFFFDF7EC);
+  static const Color redWithOpacity10 = Color.fromARGB(255, 239, 173, 149);
+
+  static const Color fmDarkOrange = Color(0xFFF17713);
+  static const Color fmGreen10 = Color(0xFF3CB692);
+  static const Color fmGreen100 = Color(0xFFDEEE21);
+  static const Color fmGreen200 = Color(0xFF78BA45);
+  static const Color fmGreen300 = Color(0xFF78BA45);
+  static const Color fmGreen400 = Color(0xFF347E52);
+  static const Color fmGreen500 = Color(0xFF29C310);
+  static const Color fmSkyBlue1 = Color(0xFF73D0FF);
+  static const Color fmSemanticBlue = Color(0xFF5D87FF);
+  static const Color fmPink = Color(0xFFBB63C4);
+  static const Color fmGreen600 = Color(0xFF00B112);
+  static const Color fmGreenLightBg = Color(0xFFECFFEE);
+  static const Color blackKindFontColor = Color(0xFF222222);
+  static const Color deleteIconColor = Color(0xFFCA2020);
+  static const Color fmSemanticGreen = Color(0xFF0EA42E);
+  static const Color fmGreyScaleDark = Color(0xFF3B3B3B);
+  static const Color fmLightSoftPink = Color(0xFFFCECEC);
+
+  static const Color fmGreyIconColor = Color(0xFf888888);
+  static const Color fmGreyIconColor2 = Color(0xFf666666);
+  static const Color fmGreyFont = Color(0xFF242424);
+  static const Color fmcard = Color(0xFFF7F8FB);
+}
